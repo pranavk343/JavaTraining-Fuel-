@@ -34,5 +34,6 @@ public class AnimalInheritance {
         b1.eat();
         b1.sleep();
         b1.fly();
+        System.out.println("Changed");
     }
 }
